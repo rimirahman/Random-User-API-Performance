@@ -7,7 +7,6 @@
 
 
 ## Technology used:
-- Postman
 - Jmeter
 
 
